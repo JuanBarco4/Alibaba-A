@@ -7,5 +7,6 @@ export let user = [
     [103,	'irene3',	'blue03',	'Irene Everly',	    '1756 East Dr, Houston, TX 28562',	        'irene.everly@gmail.com',	9859423698],
     [104,	'rachel4',	'red04',	'Rachel Rose',	    '1465 River Dr, Boston, MA 43625',	        'rachel.rose@hotmail.com',	2945632543],
     [105,	'sophie5',	'green05',	'Sophie Sutton',	'1896 West Dr, Portland, OR 65842',	        'sophie.sutton@yahoo.com',	5169525614],
-    [106,	'wendy6',	'purple06',	'Wendy West',	    '1252 Vine St, Chicago, IL 73215',	        'wendy.west@gmail.com', 	6645936156]
+    [106,	'wendy6',	'purple06',	'Wendy West',	    '1252 Vine St, Chicago, IL 73215',	        'wendy.west@gmail.com', 	6645936156],
+    [107, 'jefuentes', '12345', 'Josssue Fuentes', 'Guatemala', 'jefuentes@scl.edu.gt', 7585624102]
 ]
